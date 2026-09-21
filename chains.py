@@ -47,6 +47,19 @@ class Chain:
             in fulfilling their needs.
             Also add the most relevant ones from the following links to showcase Atliq's portfolio: {link_list}
             Remember you are Arun Soundhara Pandian T, SD at AtliQ. 
+            FORMATTING REQUIREMENTS:
+            - Return ONLY the email.
+            - Plain text only.
+            - No Markdown.
+            - No ###, ##, or # headings.
+            - No Markdown tables.
+            - No --- separators.
+            - No **bold** or *italic* formatting.
+            - No explanations outside the email.
+            - Make the email directly copy-pasteable.
+            - Keep it concise and professional.
+            - Use normal paragraphs.
+            - Include a clear subject line.
             Do not provide a preamble.
             ### EMAIL (NO PREAMBLE):
 

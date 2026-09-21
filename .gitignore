@@ -181,3 +181,5 @@ chroma/
 chroma_db/
 
 *.log
+
+vectorstore/
